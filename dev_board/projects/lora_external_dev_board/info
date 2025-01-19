@@ -1,0 +1,246 @@
+{
+  "uuid": "3108341df9236b111171ba3f836341e5",
+  "path": "Offline/lora_external_dev_board",
+  "name": "lora_external_dev_board",
+  "content": "",
+  "created_at": "2025-01-19 17:24:46",
+  "updated_at": "2025-01-19 17:24:46",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "b44b26cc377a452675f0adbef5be6c1a",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "e6a2d1f7555a4e9fa7707143c4206797": 1,
+        "eb6b3d417307480c91d18a7e70e4c218": 1,
+        "17824a935d314033ab5a3d8e60b86329": 1,
+        "6ddd70e5a18d4171a8036dc1ab480a42": 1,
+        "e552705b5c966d1cdcdc9bdb4d3c2bca": 2,
+        "3b3a9de07d764d20b2c9bc4ddb33a49d": 1,
+        "6f3b04dcd9e0477db48b763c5a6788df": 1,
+        "05284a899e60451497b154344c61420a": 1,
+        "51cf3d85ce11432d9880913f20d1bde0": 2,
+        "8865a86c09893bcfc5b27a561433d19f": 19,
+        "b2f7b4f9db50472680305c8c5ed25602": 7,
+        "3b940f62f3be42bf8d69340dfc301722": 5,
+        "606eb4f835e9401b84c3cf9e88395590": 1,
+        "aeb06dfa277242cdb2378f9df82396d5": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1.8pF",
+          2,
+          "C0402",
+          "C1,C2",
+          {
+            "Manufacturer Part": "GJM1555C1H1R8BB01D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C76902"
+          }
+        ],
+        [
+          "22pF/6.3V",
+          2,
+          "C0402",
+          "C3,C4",
+          {
+            "Manufacturer Part": "22pF/6.3V(10%)-0402",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900004403"
+          }
+        ],
+        [
+          "1uF",
+          18,
+          "CAP-TH_L17.0-W8.5-P15.00-D1.2-FD",
+          "C5,C6,C7,C9,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19,C20,C21,C22,C23",
+          {
+            "Manufacturer Part": "1uf/250V/CBBCapacitor",
+            "Manufacturer": "ReliaPro",
+            "Supplier": "LCSC",
+            "Supplier Part": "C29321"
+          }
+        ],
+        [
+          "470nF",
+          1,
+          "CAP-TH_L17.0-W8.5-P15.00-D1.2-FD",
+          "C8",
+          {
+            "Manufacturer Part": "1uf/250V/CBBCapacitor",
+            "Manufacturer": "ReliaPro",
+            "Supplier": "LCSC",
+            "Supplier Part": "C29321"
+          }
+        ],
+        [
+          "2.7mH",
+          1,
+          "2.7MH SB3M",
+          "L1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "24mH",
+          1,
+          "INDUCTOR",
+          "L2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "ML",
+            "Supplier": "",
+            "Supplier Part": "C46030"
+          }
+        ],
+        [
+          "2SC3356",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR-2",
+          "Q1",
+          {
+            "Manufacturer Part": "2SC3356",
+            "Manufacturer": "FOSAN(富信)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5119709"
+          }
+        ],
+        [
+          "10k",
+          5,
+          "R0603",
+          "R1,R2,R3,R4,R5",
+          {
+            "Manufacturer Part": "贴片电阻ChipResistors",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900014833"
+          }
+        ],
+        [
+          "02.HC-RF-IPEX0303-01",
+          2,
+          "IPEX-SMD_HC-RF-IPEX0303-01",
+          "RF1,RF2",
+          {
+            "Manufacturer Part": "HC-RF-IPEX0303-01",
+            "Manufacturer": "HCTL(华灿天禄)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2894919"
+          }
+        ],
+        [
+          "ESP32-C3FN4",
+          1,
+          "QFN32G-0.5-5X5MM",
+          "U1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "SX1262",
+          1,
+          "QFN-24_L4.0-W4.0-P0.50-BL-EP2.6",
+          "U2",
+          {
+            "Manufacturer Part": "SX1262IMLTRT",
+            "Manufacturer": "SEMTECH",
+            "Supplier": "LCSC",
+            "Supplier Part": "C191341"
+          }
+        ],
+        [
+          "UPG2179",
+          1,
+          "SOT-363_L2.0-W1.3-P0.65-LS2.1-BL",
+          "U3",
+          {
+            "Manufacturer Part": "UPG2179TB-E4-A",
+            "Manufacturer": "RENESAS(瑞萨)/IDT",
+            "Supplier": "LCSC",
+            "Supplier Part": "C3312585"
+          }
+        ],
+        [
+          "10R@100Mhz",
+          1,
+          "IND-SMD_L1.6-W1.0",
+          "U4",
+          {
+            "Manufacturer Part": "10uH-INDUCTOR-0603",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900016650"
+          }
+        ],
+        [
+          "15uH",
+          6,
+          "IND-SMD_L1.6-W1.0",
+          "U5,U6,U7,U8,U9,U10",
+          {
+            "Manufacturer Part": "10uH-INDUCTOR-0603",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900016650"
+          }
+        ],
+        [
+          "32Mhz",
+          1,
+          "40MHZ CRYSTAL OSCILLATOR",
+          "X2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "YIC",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "40MHz",
+          1,
+          "16MHZ CRYSTAL",
+          "XTL1",
+          {
+            "Manufacturer Part": "NTPL INSIDE",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1737287686,
+      "createTime": 1737287686,
+      "histories": [],
+      "created_at": "2025-01-19 17:24:46",
+      "updated_at": "2025-01-19 17:24:46"
+    }
+  ],
+  "sort": [],
+  "title": "lora_external_dev_board",
+  "foldername": "lora_external_dev_board",
+  "schfilename": "lora_external_dev_board.json",
+  "schfilemtime": 1737287686286
+}

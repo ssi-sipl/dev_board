@@ -1,0 +1,777 @@
+{
+  "uuid": "d120ecf001b5d9b1c4bd6c1bc7586808",
+  "path": "Offline/wifi%2Blora_external",
+  "name": "wifi+lora_external",
+  "content": "",
+  "created_at": "2025-01-19 17:07:41",
+  "updated_at": "2025-01-19 17:14:06",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "a11960c4da8538ab66ce78ef12c689db",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "1db59db3d35448a6acf1c160914d341b": 1,
+        "286952e69a532726bf48e4bcafe6e878": 1,
+        "050210eb44fb24b0f1f7d73e6372031b": 6,
+        "cc02842d85cf4b0b856857ce646c5b78": 2,
+        "5731e1131f304450b457050d1cd350e8": 1,
+        "6035cc9d9ee84e00b61fab2731187da1": 1,
+        "de96b8f476ac4d9287e47fe6e8ed6032": 3,
+        "b863c189b65d27c2430a0274caceb4fa": 1,
+        "412f0ebd8e6b4dec8dd2d90033991fc6": 1,
+        "58ae0d78bb9b3153e5315c542ed07dfb": 1,
+        "baa515ab0f5a46baaabeeb7b3bf82f4c": 1,
+        "6445a8f57db8ac3e9df49b5167ee29ec": 1,
+        "f5fb5a24e9edc515352eb800d4f925df": 1,
+        "8865a86c09893bcfc5b27a561433d19f": 19,
+        "606eb4f835e9401b84c3cf9e88395590": 1,
+        "3b940f62f3be42bf8d69340dfc301722": 5,
+        "601f9e8c4c4944d19f637adedcead3ea": 1,
+        "b2f7b4f9db50472680305c8c5ed25602": 7,
+        "51cf3d85ce11432d9880913f20d1bde0": 2,
+        "05284a899e60451497b154344c61420a": 1,
+        "6f3b04dcd9e0477db48b763c5a6788df": 1,
+        "3b3a9de07d764d20b2c9bc4ddb33a49d": 1,
+        "e552705b5c966d1cdcdc9bdb4d3c2bca": 2,
+        "6ddd70e5a18d4171a8036dc1ab480a42": 1,
+        "17824a935d314033ab5a3d8e60b86329": 1,
+        "eb6b3d417307480c91d18a7e70e4c218": 1,
+        "e6a2d1f7555a4e9fa7707143c4206797": 1,
+        "cc1315144ce649ddbfd50e699f963fea": 1,
+        "9e6a09fb42964a9cbcb2aa0e41c3836e": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "2450AT18A100E",
+          1,
+          "ANT-SMD_L3.2-W1.6",
+          "AE2",
+          {
+            "Manufacturer Part": "2450AT18A100E",
+            "Manufacturer": "JOHANSON(约翰逊)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C89334"
+          }
+        ],
+        [
+          "ANTENNA_WIFI_MIFA",
+          1,
+          "WIFI ANTENNA MIFA INVERTED F ANTENNA",
+          "ANT1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Header-Male-2.54_1x1",
+          6,
+          "HDR-1X1/2.54",
+          "B+1,B-1,IN+1,IN-1,OUT+1,OUT-1",
+          {
+            "Manufacturer Part": "Header-Male-2.54_1x1",
+            "Manufacturer": "ReliaPro",
+            "Supplier": "LCSC",
+            "Supplier Part": "C81276"
+          }
+        ],
+        [
+          "DNP",
+          15,
+          "TP-80X40MIL",
+          "BAT1,C3,C4,C13,GND1,J1,J2,R13,R16,TP1,TP2,TP3,TP4,TP5,TP6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "TD-1183SN-A3N-D1R",
+          2,
+          "BUTTON_TD1183SA",
+          "BOOT1,RST1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100nF",
+          10,
+          "0603",
+          "C1,C5,C9,C12,C20,C21,C23,C24,C30,C33",
+          {
+            "Manufacturer Part": "0603B104K250",
+            "Manufacturer": "WTC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C83054"
+          }
+        ],
+        [
+          "10uF",
+          2,
+          "0603",
+          "C2,C7",
+          {
+            "Manufacturer Part": "CL10A106MP8NNNC",
+            "Manufacturer": "SAMSUNG",
+            "Supplier": "LCSC",
+            "Supplier Part": "C85713"
+          }
+        ],
+        [
+          "22uF",
+          1,
+          "C3216",
+          "C6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "2.2uF",
+          7,
+          "C0201",
+          "C8,C10,C11,C14,C15,C18,C22",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "18pF",
+          4,
+          "C0201",
+          "C16,C17,C31,C34",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1uF",
+          20,
+          "C0201",
+          "C19,C29,C35,C36,C37,C38,C39,C40,C41,C42,C43,C44,C45,C46,C47,C48,C49,C51,C52,C53",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "0R",
+          4,
+          "C0201",
+          "C25,C26,R14,R22",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1.6pF",
+          2,
+          "C0201",
+          "C27,C28",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10pF",
+          1,
+          "C0201",
+          "C32",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "470nF",
+          1,
+          "CAP-TH_L17.0-W8.5-P15.00-D1.2-FD",
+          "C50",
+          {
+            "Manufacturer Part": "1uf/250V/CBBCapacitor",
+            "Manufacturer": "ReliaPro",
+            "Supplier": "LCSC",
+            "Supplier Part": "C29321"
+          }
+        ],
+        [
+          "22pF/6.3V",
+          2,
+          "C0402",
+          "C54,C55",
+          {
+            "Manufacturer Part": "22pF/6.3V(10%)-0402",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900004403"
+          }
+        ],
+        [
+          "1.8pF",
+          2,
+          "C0402",
+          "C56,C57",
+          {
+            "Manufacturer Part": "GJM1555C1H1R8BB01D",
+            "Manufacturer": "muRata(村田)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C76902"
+          }
+        ],
+        [
+          "RED",
+          2,
+          "LED-0402",
+          "CHG1,LED2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "MSK4005",
+          1,
+          "SOD-523",
+          "D1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "6V_500mA_Fuse",
+          1,
+          "F0603",
+          "F1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "GND_POWER",
+          26,
+          "",
+          "G1,G2,G3,G4,G5,G6,G7,G8,G9,G10,G11,G12,G13,G14,G15,G16,G17,G18,G19,G20,G22,G23,G24,G25,G26,G27",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "Headers  Pins1x15P 2.54mm",
+          1,
+          "HDR-TH_15P-P2.54-V-M",
+          "H1",
+          {
+            "Manufacturer Part": "排针1x15P 2.54mm",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C54102"
+          }
+        ],
+        [
+          "FTDI_BASICPTH",
+          1,
+          "FTDI_BASIC",
+          "JP1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "2nH",
+          2,
+          "L0201",
+          "L1,L2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "24mH",
+          1,
+          "INDUCTOR",
+          "L3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "ML",
+            "Supplier": "",
+            "Supplier Part": "C46030"
+          }
+        ],
+        [
+          "2.7mH",
+          1,
+          "2.7MH SB3M",
+          "L4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "GREEN",
+          1,
+          "LED-0603",
+          "LED1",
+          {
+            "Manufacturer Part": "LTST-C193TGKT-5A",
+            "Manufacturer": "LITEON",
+            "Supplier": "LCSC",
+            "Supplier Part": "C12065"
+          }
+        ],
+        [
+          "tx_led",
+          4,
+          "CHIP-LED0805",
+          "LED3,LED5,LED7,LED9",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "rx_led",
+          4,
+          "CHIP-LED0805",
+          "LED4,LED6,LED8,LED10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "FS8205",
+          1,
+          "SOT-23-6",
+          "Q1",
+          {
+            "Manufacturer Part": "FS8205",
+            "Manufacturer": "FORTUNE",
+            "Supplier": "LCSC",
+            "Supplier Part": "C32254"
+          }
+        ],
+        [
+          "LP0404N3T5G",
+          1,
+          "PMOS_1.0*0.6*0.35MM",
+          "Q2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "2SC3356",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR-2",
+          "Q3",
+          {
+            "Manufacturer Part": "2SC3356",
+            "Manufacturer": "FOSAN(富信)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5119709"
+          }
+        ],
+        [
+          "1K",
+          3,
+          "0603",
+          "R1,R2,R4",
+          {
+            "Manufacturer Part": "ERJ3GEYJ102V",
+            "Manufacturer": "PANASONIC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C180848"
+          }
+        ],
+        [
+          "100Ω",
+          1,
+          "0603",
+          "R3",
+          {
+            "Manufacturer Part": "0603WAJ0101T5E",
+            "Manufacturer": "UniOhm",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25201"
+          }
+        ],
+        [
+          "1.2KΩ",
+          1,
+          "0603",
+          "R5",
+          {
+            "Manufacturer Part": "RC0603JR-071K2L",
+            "Manufacturer": "YAGEO",
+            "Supplier": "LCSC",
+            "Supplier Part": "C114679"
+          }
+        ],
+        [
+          "5.1k",
+          2,
+          "R0201",
+          "R6,R9",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "22R",
+          2,
+          "R0201",
+          "R7,R8",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "100k",
+          1,
+          "R0201",
+          "R10",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "2.2k",
+          1,
+          "R0201",
+          "R11",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "2.7k",
+          1,
+          "R0201",
+          "R12",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "1R",
+          1,
+          "R0201",
+          "R15",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "680",
+          8,
+          "0603-RES",
+          "R17,R18,R21,R23,R24,R25,R26,R27",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "10k",
+          7,
+          "R0201",
+          "R19,R20,R28,R29,R30,R31,R32",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "DW01A",
+          1,
+          "SOT-23-6L",
+          "U1",
+          {
+            "Manufacturer Part": "DW01A",
+            "Manufacturer": "PUOLOP",
+            "Supplier": "LCSC",
+            "Supplier Part": "C351410"
+          }
+        ],
+        [
+          "TP4056",
+          1,
+          "SOP-8_EP_150MIL",
+          "U2",
+          {
+            "Manufacturer Part": "TP4056",
+            "Manufacturer": "TOPPOWER",
+            "Supplier": "LCSC",
+            "Supplier Part": "C16581"
+          }
+        ],
+        [
+          "XC6210B332MR",
+          1,
+          "SOT-25",
+          "U3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "AMS117-5V",
+          1,
+          "AMS117-TOPL",
+          "U4",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "PMIC-XC6802MR",
+          1,
+          "SOT-25",
+          "U5",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "868 MHz PCB Antenna",
+          1,
+          "868MHZ_PCB_ANTENNA",
+          "U6",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "ESP32-C3FN4",
+          2,
+          "QFN32G-0.5-5X5MM",
+          "U7,U17",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "15uH",
+          6,
+          "IND-SMD_L1.6-W1.0",
+          "U8,U9,U10,U11,U12,U13",
+          {
+            "Manufacturer Part": "10uH-INDUCTOR-0603",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900016650"
+          }
+        ],
+        [
+          "10R@100Mhz",
+          1,
+          "IND-SMD_L1.6-W1.0",
+          "U14",
+          {
+            "Manufacturer Part": "10uH-INDUCTOR-0603",
+            "Manufacturer": "null",
+            "Supplier": "LCSC",
+            "Supplier Part": "C9900016650"
+          }
+        ],
+        [
+          "UPG2179",
+          1,
+          "SOT-363_L2.0-W1.3-P0.65-LS2.1-BL",
+          "U15",
+          {
+            "Manufacturer Part": "UPG2179TB-E4-A",
+            "Manufacturer": "RENESAS(瑞萨)/IDT",
+            "Supplier": "LCSC",
+            "Supplier Part": "C3312585"
+          }
+        ],
+        [
+          "SX1262",
+          1,
+          "QFN-24_L4.0-W4.0-P0.50-BL-EP2.6",
+          "U16",
+          {
+            "Manufacturer Part": "SX1262IMLTRT",
+            "Manufacturer": "SEMTECH",
+            "Supplier": "LCSC",
+            "Supplier Part": "C191341"
+          }
+        ],
+        [
+          "UBF31-0171",
+          1,
+          "USB2.0-TYPE-C",
+          "USB1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "40MHz/306011037",
+          1,
+          "X4-SMD-2.0X1.6X0.5MM",
+          "X1",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "32.768k/9KAA32768122TF90QT",
+          1,
+          "X2-SMD-1.6X1.0X0.5MM",
+          "X2",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "32Mhz",
+          1,
+          "40MHZ CRYSTAL OSCILLATOR",
+          "X3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "YIC",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "40MHz",
+          1,
+          "16MHZ CRYSTAL",
+          "XTL1",
+          {
+            "Manufacturer Part": "NTPL INSIDE",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ]
+      ],
+      "updateTime": 1737287046,
+      "createTime": 1737286661,
+      "histories": [],
+      "created_at": "2025-01-19 17:07:41",
+      "updated_at": "2025-01-19 17:14:06"
+    }
+  ],
+  "sort": [],
+  "title": "wifi+lora_external",
+  "foldername": "wifi+lora_external",
+  "schfilename": "wifi+lora_external.json",
+  "schfilemtime": 1737287046290
+}
